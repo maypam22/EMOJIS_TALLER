@@ -10,7 +10,11 @@ public class Main {
                 "Escriba 1 para dibujar emoji enojado \n" +
                 "Escriba 2 para dibujar emoji robot\n" +
                 "Escriba 3 para dibujar emoji carita tierna\n" +
-                "Escriba 4 para dibujar emoji con lengua afuera\n"
+                "Escriba 4 para dibujar emoji con lengua afuera\n" +
+                "Escriba 5 para dibujar emoji enojado\n" +
+                "Escriba 6 para dibujar emoji fastidiado\n" +
+                "Escriba 7 para dibujar emoji feliz\n" +
+                "Escriba 8 para dibujar emoji sorprendido\n"
 
 
 
