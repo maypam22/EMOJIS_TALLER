@@ -22,7 +22,7 @@ public class Main {
 
         );
         opcion = Integer.parseInt(entrada);
-        if(opcion>0 && opcion <=4) {
+        if(opcion>0 && opcion <=12) {
             figuras panel = new figuras(opcion);
             JFrame aplicacion = new JFrame();
 
@@ -30,7 +30,7 @@ public class Main {
             aplicacion.add(panel);
             aplicacion.setSize(1200, 500);
             aplicacion.setVisible(TRUE);
-        } else if (opcion >=5){
+        } else if (opcion >=13){
             JOptionPane.showMessageDialog(null, "Intenta ingresando otro numero: ");
         }
         }
