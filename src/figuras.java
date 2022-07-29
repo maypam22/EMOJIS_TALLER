@@ -72,6 +72,24 @@ public class figuras extends JPanel {
 
                     break;
                 case 7:
+                    g.setColor( Color.YELLOW );
+                    g.fillOval( 10, 10, 200, 200 );
+
+                    g.setColor( Color.BLACK );
+                    g.fillArc( 45, 70, 55, 30,0,180 );
+                    g.fillArc( 123, 70, 55, 30, 0, 180);
+
+                    g.fillArc( 50, 110, 120, 60,0,-180);
+
+                    g.setColor( Color.YELLOW );
+                    g.fillArc( 45, 80, 55, 30,0,180 );
+                    g.fillArc( 123, 80, 55, 30, 0, 180);
+
+                    g.fillArc( 50, 100, 120, 60,0,-180);
+
+                    g.setColor(Color.ORANGE);
+                    g.fillOval( 30, 96, 45, 45 );
+                    g.fillOval( 153, 96, 45, 45 );
 
                     break;
                 case 8:
