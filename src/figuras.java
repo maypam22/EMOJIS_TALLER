@@ -126,6 +126,34 @@ public class figuras extends JPanel {
                     g.fillArc(150, 140, 60, 22, 45, 360);
                     break;
                 case 4:
+                    //CARA
+                    g.setColor( Color.YELLOW );
+                    g.fillOval( 10, 10, 200, 200 ); // hace el circulo color amarillo
+
+
+                    g.setColor( Color.BLACK );
+                    //circulo de forma
+                    g.drawArc( 10, 10, 200, 200 ,0,360);
+                    //OJOS
+                    g.fillOval( 125, 65, 30, 30 );
+                    g.fillOval( 65, 65, 30, 30 );
+
+                    //BOCA
+                    g.fillOval( 50, 110, 120, 60 );
+
+                    //LENGUA
+                    g.setColor( Color.RED );
+                    g.fillOval( 80, 135, 60, 90 );
+
+                    g.setColor(Color.BLACK);
+                    g.drawLine(110,125,110,200);
+
+                    //CUADRADO
+                    g.setColor(Color.BLACK);
+                    g.fillRect( 55, 140, 113, 10 );
+
+                    g.setColor( Color.YELLOW );
+                    g.fillRect( 50, 100, 120, 40 );
 
                     break;
                 case 5:
