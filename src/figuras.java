@@ -32,10 +32,62 @@ public class figuras extends JPanel {
 
                     g.setColor(Color.RED);
                     g.fillArc( 65, 140, 90, 60 ,0,180);
-                    
+
                     break;
                 case 2:
+                    //CARA
+                    g.setColor( Color.BLUE );
+                    g.fillOval( 50, 75, 300, 150 );
+                    g.fillOval( 0, 75, 250, 150 );
+                    g.fillOval( 100, 20, 150, 100 );
 
+                    g.setColor(Color.BLACK);
+                    g.drawArc( 50, 75, 300, 150,0,360 );
+                    g.drawArc( 0, 75, 250, 150 ,0,360);
+                    g.drawArc( 100, 20, 150, 100 ,0,360);
+
+                    g.setColor( Color.RED );
+                    g.fillRect( 50, 50, 250, 200 );//CUADRADO DE LA CARA
+                    g.setColor( Color.BLACK );
+                    g.drawRect( 50, 50, 250, 200 );// CONTORNO  DE LA CARA
+
+                    g.setColor( Color.GRAY );
+                    //OJOS PRIMERA CAPA
+                    g.fillOval( 190, 80, 100, 100 );
+                    g.fillOval( 65, 80, 100, 100 );
+
+                    //OJOS SEGUDA CAPA
+                    g.setColor(Color.BLUE);
+                    g.fillOval( 200, 90, 80, 80 );
+                    g.fillOval( 75, 90, 80, 80 );
+
+
+                    //OJOS TERCERA CAPA
+                    g.setColor(Color.BLACK);
+                    g.fillOval( 210, 100, 60, 60 );
+                    g.fillOval( 85, 100, 60, 60);
+                    //ULTIMA CAPA DE OJOS
+                    g.setColor(Color.WHITE);
+                    g.fillOval( 215, 105, 30, 30 );
+                    g.fillOval( 90, 105, 30, 30);
+                    g.setColor(Color.BLACK);
+
+                    //BOCA
+                    g.setColor(Color.GRAY);
+                    g.fillRect( 120, 200, 100, 35);
+                    g.setColor(Color.BLACK);
+                    g.drawRect( 120, 200, 100, 35);
+
+                    g.setColor(Color.white);
+                    g.fillRect( 130, 205, 80, 25);
+                    g.setColor(Color.BLACK);
+                    g.drawRect( 130, 205, 80, 25);
+
+                    g.setColor(Color.BLACK);
+                    g.drawLine( 150, 230, 150, 205);
+                    g.drawLine( 170, 230, 170, 205);
+                    g.drawLine( 190, 230, 190, 205);
+                    
                     break;
                 case 3:
 
