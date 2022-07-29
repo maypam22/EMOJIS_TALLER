@@ -87,11 +87,43 @@ public class figuras extends JPanel {
                     g.drawLine( 150, 230, 150, 205);
                     g.drawLine( 170, 230, 170, 205);
                     g.drawLine( 190, 230, 190, 205);
-                    
+
                     break;
                 case 3:
 
+                    //empieza en 0 hasta -270
+                    //CARA
+                    g.setColor(Color.yellow);
+                    g.fillArc(30,30, 200, 200, 0, 360);
 
+                    //  OJOS Y CARA Y CONTORNOS
+                    g.setColor(Color.BLACK);
+                    g.drawArc(60, 10, 60, 60, -15, -90);
+                    g.drawArc(150, 10, 60, 60, -75, -90);
+                    g.drawArc(142, 80, 60, 60, -15, 210);
+                    g.drawArc(67, 80, 60, 60, -15, 210);
+
+                    g.setColor(Color.WHITE);
+                    g.fillArc(142, 80, 60, 60, -15, 210);
+                    g.fillArc(67, 80, 60, 60, -15, 210);
+
+                    g.setColor(Color.BLACK);
+                    g.drawArc(30,30, 200, 200, 0, 360);
+                    g.fillArc(145, 85, 50, 65, -5, 185);
+                    g.fillArc(75, 85, 50, 65, 0, 195);
+                    g.drawArc(120, 135, 30, 30, -45, -90);
+
+                    g.setColor(Color.WHITE);
+                    g.fillArc(90, 88, 20, 20, -15, 360);
+                    g.fillArc(160, 88, 20, 20, -15, 360);
+
+                    g.setColor(Color.CYAN);
+                    g.fillArc(70, 110, 60, 22, 45, 360);
+                    g.fillArc(140, 110, 60, 22, 45, 360);
+
+                    g.setColor(Color.orange);
+                    g.fillArc(60, 140, 60, 22, 45, 360);
+                    g.fillArc(150, 140, 60, 22, 45, 360);
                     break;
                 case 4:
 
