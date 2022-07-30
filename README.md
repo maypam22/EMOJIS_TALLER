@@ -27,4 +27,7 @@ Integrantes:
 
 ![img_5.png](img_5.png)
 
+6. Emoji de cara enojado
+
+![img_6.png](img_6.png)
 
