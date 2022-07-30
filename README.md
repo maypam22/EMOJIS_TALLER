@@ -43,3 +43,6 @@ Integrantes:
 
 ![img_9.png](img_9.png)
 
+10. Emoji de cara de alien 
+![image](https://user-images.githubusercontent.com/85316345/181934517-a372fd84-bd00-431c-8e59-6fdc5ae64cb2.png)
+
