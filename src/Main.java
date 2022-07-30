@@ -14,11 +14,11 @@ public class Main {
                 "Escriba 5 para dibujar emoji enojado\n" +
                 "Escriba 6 para dibujar emoji fastidiado\n" +
                 "Escriba 7 para dibujar emoji feliz\n" +
-                "Escriba 8 para dibujar emoji sorprendido\n"
-
-
-
-
+                "Escriba 8 para dibujar emoji sorprendido\n"+
+                "Escriba 9 para dibujar emoji alien\n"+
+                "Escriba 10 para dibujar emoji alien\n"+
+                "Escriba 11 para dibujar emoji alien\n"+
+                "Escriba 12 para dibujar emoji alien\n"
 
         );
         opcion = Integer.parseInt(entrada);
