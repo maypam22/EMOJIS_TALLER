@@ -55,5 +55,9 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/85316345/181935970-dc06533f-677a-4c35-a5fd-6e1a3cf757f2.png)
 
+13. Emoji sin comentarios 
+
+![image](https://user-images.githubusercontent.com/85316345/181936552-9af8e842-bae5-49f3-88ea-7f838bb00092.png)
+
 
 
