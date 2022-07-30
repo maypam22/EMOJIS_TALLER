@@ -9,7 +9,7 @@ Integrantes:
 
 1. Despliegue del menú
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/85316345/181936840-48f9f18a-8722-40cb-9a9f-33347793bfae.png)
 
 2. Emoji de carita enojada
 
