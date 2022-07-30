@@ -16,7 +16,7 @@ public class Main {
                 "Escriba 7 para dibujar emoji feliz\n" +
                 "Escriba 8 para dibujar emoji sorprendido\n"+
                 "Escriba 9 para dibujar emoji alien\n"+
-                "Escriba 10 para dibujar emoji alien\n"+
+                "Escriba 10 para dibujar emoji durmiendo\n"+
                 "Escriba 11 para dibujar emoji alien\n"+
                 "Escriba 12 para dibujar emoji alien\n"
 
