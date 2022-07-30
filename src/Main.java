@@ -18,7 +18,7 @@ public class Main {
                 "Escriba 9 para dibujar emoji alien\n"+
                 "Escriba 10 para dibujar emoji durmiendo\n"+
                 "Escriba 11 para dibujar emoji sarcastico\n"+
-                "Escriba 12 para dibujar emoji alien\n"
+                "Escriba 12 para dibujar emoji sin comentarios \n"
 
         );
         opcion = Integer.parseInt(entrada);
