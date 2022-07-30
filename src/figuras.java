@@ -298,8 +298,17 @@ public class figuras extends JPanel {
 
                     g.fillOval(70,140,35,40); //ojoDere
                     g.fillOval(135,140,35,40); //ojoIzq
+                    
+                case 12:
+                    g.setColor(Color.yellow);
+                    g.fillArc(20, 30, 190, 190, 0, 360);
 
-                   
+                    g.setColor(Color.darkGray);
+
+                    g.drawArc(20, 30, 190, 190, 0, 360);//linea circular
+
+                    g.fillOval(70,75,35,40); //ojoDere
+                    g.fillOval(135,75,35,40); //ojoIzq
             }
         }
 
