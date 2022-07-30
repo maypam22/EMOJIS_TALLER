@@ -51,5 +51,9 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/85316345/181935406-0a056583-c7df-49de-8289-df60f46d577a.png)
 
+12. Emoji de cara sarcastica
+
+![image](https://user-images.githubusercontent.com/85316345/181935970-dc06533f-677a-4c35-a5fd-6e1a3cf757f2.png)
+
 
 
