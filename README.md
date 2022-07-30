@@ -35,4 +35,8 @@ Integrantes:
 
 ![img_7.png](img_7.png)
 
+8. Emoji de cara feliz 
+
+![img_8.png](img_8.png)
+
 
