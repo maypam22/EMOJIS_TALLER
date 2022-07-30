@@ -267,6 +267,25 @@ public class figuras extends JPanel {
                     g.fillOval( 138, 65, 35, 33);
                     g.fillOval( 68, 65, 35, 33);
                     
+                case 10:
+                    g.setColor(Color.yellow);
+                    g.fillArc(20, 30, 200, 200, 0, 360);
+
+                    g.setColor(Color.BLACK);
+
+                    g.drawArc(20, 30, 200, 200, 0, 360);//linea circular
+
+                    g . drawArc ( 75 , 90 , 35 , 40 , 180 , 180 );//ojoDere
+                    g . drawArc ( 135 , 90 , 35 , 40 , 180 , 180 );//ojoIzq
+
+                    g.fillOval(100,170,40,30);//boca
+
+                    g.setColor(Color.MAGENTA); //letras Z
+                    g.drawString("Z",180,95);
+                    g.drawString("z",190,85);
+                    g.drawString("Z",200,75);
+                    g.drawString("z",210,65);
+                    
             }
         }
 
