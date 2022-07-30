@@ -39,4 +39,7 @@ Integrantes:
 
 ![img_8.png](img_8.png)
 
+9. Emoji de cara sorprendido
+
+![img_9.png](img_9.png)
 
